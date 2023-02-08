@@ -5,7 +5,7 @@ namespace TaskApp.API.Data {
     public class Seed {
 
         public static Task SeedData(DataContext context) {
-            /* Implement method to fetch data from https://weisstech.no/api/data.json */
+            /* Implement method to fetch data from https://omhuapp.no/api/data.json */
             throw new NotImplementedException();
         }
     }
